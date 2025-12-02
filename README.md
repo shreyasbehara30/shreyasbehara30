@@ -10,6 +10,7 @@
 
 <!-- Badges -->
 <p align="center">
+  <a href="https://shreyasbehara-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6A5ACD?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://github.com/shreyasbehara30"><img src="https://img.shields.io/badge/AI%20Engineer%20In%20Making-000000?style=for-the-badge&logo=openai&logoColor=white"/></a>
   <a href="mailto:shreyas.behara@gmail.com"><img src="https://img.shields.io/badge/Email-FF5733?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/shreyas-behara"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -24,6 +25,7 @@
 - 🌱 Learning **NLP, GenAI, ML, LLMs, Hugging Face Transformers, NLTK, Whisper, NumPy, Pandas, FastAPI, Flask, OpenCV**
 - 👯 Looking to collaborate on **AI/ML, open-source, and research**
 - 💬 Ask me about **Full Stack Development (MERN)** and **Generative AI**
+- 🌐 Portfolio: **https://shreyasbehara-portfolio.vercel.app/**
 - 📫 Email: **shreyas.behara@gmail.com**
 - 📄 Resume: **[Click here](https://www.dropbox.com/scl/fi/zec69yh6tlyfybgbjl3a1/resume.pdf?rlkey=vqvj2o4uxapbvq4m2u8av1udx&st=6ho4zy5p&dl=0)**
 
@@ -38,16 +40,16 @@
 
 ## 🧠 Tech Stack
 
-### 🤖 AI / Data Science
+### 🤖 AI / Data Science  
 <p><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,pandas,numpy" /></p>
 
-### 🌐 Full Stack Development
+### 🌐 Full Stack Development  
 <p><img src="https://skillicons.dev/icons?i=react,nodejs,express,js,ts,html,css,tailwind,flutter,vue" /></p>
 
-### 🗄️ Databases
+### 🗄️ Databases  
 <p><img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,postgres" /></p>
 
-### ⚙️ Tools & Platforms
+### ⚙️ Tools & Platforms  
 <p><img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" /></p>
 
 ---
@@ -65,7 +67,7 @@
 
 ---
 
-## 📈 GitHub Activity Graph
+## 📈 GitHub Activity Graph  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyasbehara30&theme=react-dark&area=true&hide_border=true" />
 </p>
@@ -80,7 +82,6 @@
 - Anonymous chat mode + real-time database logging  
 - Built with modular OOP & context-aware engine  
 
-
 ---
 
 ### 🤰 AASRA – AI-Powered Maternal Wellness App  
@@ -89,42 +90,33 @@
 - Smart recommendations using behaviour patterns  
 - Clean UI + smart notifications  
 
-
 ---
 
 ### 🎥 Sensored – AI-Powered Automated Video Censoring Tool  
 **Tech:** Python • Flask/FastAPI • Whisper/STT APIs • FFmpeg • OpenCV • React  
 
-- Upload any video and automatically **transcribe** speech using Whisper or cloud STT APIs  
-- Generates **word-level timestamps** for precise synchronization with the video timeline  
-- Lets users select words/phrases to censor — or uses a predefined blacklist  
-- Automatically **blurs the speaker’s mouth** or **mutes audio** during censored segments  
-- Uses **FFmpeg + OpenCV** to apply frame-accurate censoring  
-- Outputs a fully-processed **censored video ready for download**  
-- Built with scalable architecture and secure upload handling  
-
-
+- Upload video → Automatic **speech transcription**  
+- Generates **word-level timestamps**  
+- Select or auto-detect words to censor  
+- **Mouth blur** or **audio mute** censorship  
+- FFmpeg + OpenCV based frame-accurate processing  
+- Export processed & censored video  
 
 ---
 
 ### 🎙 WhisperAI Transcriber – Speech-to-Text App  
 **Tech:** Python • Whisper • FastAPI • Streamlit  
-- Converts audio → Text using high-accuracy Whisper AI  
-- Timestamped output + downloadable transcript  
-- Microservice-friendly architecture  
-
-
----
-
+- Converts audio → text  
+- Timestamped output  
+- Fast microservice-friendly architecture  
 
 ---
 
 ### 🧮 AlgoVision – DSA Algorithm Visualizer  
 **Tech:** React  
 - Visual animations for BFS, DFS, sorting, searching  
-- Great for students prepping DSA  
+- Great for students learning DSA  
 - Smooth UI with dynamic rendering  
-
 
 ---
 
@@ -145,7 +137,7 @@
 ### 🔹 DevOps & Deployment  
 - Docker  
 - CI/CD pipelines  
-- Logging & Monitoring  
+- Monitoring & logging  
 
 ### 🔹 Research  
 - Mental health AI  
@@ -153,6 +145,14 @@
 - IoT + AI hybrid systems  
 
 ---
+
+## 📬 Contact Me  
+<p align="center">
+  <a href="https://shreyasbehara-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6A5ACD?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="mailto:shreyas.behara@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/shreyas-behara"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/shreyasbehara30"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 <h3 align="center">✨ Thanks for Visiting My Profile ✨</h3>
 
