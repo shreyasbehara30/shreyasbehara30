@@ -80,7 +80,7 @@
 **Tech:** Python • Streamlit • MongoDB • GPT-3.5  
 - Emotion-aware AI mental health assistant  
 - Anonymous chat mode + real-time database logging  
-- Built with modular  & context-aware engine  
+- Built with modular OOP  & context-aware engine  
 
 ---
 
